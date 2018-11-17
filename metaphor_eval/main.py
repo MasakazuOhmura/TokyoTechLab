@@ -39,7 +39,7 @@ def create_interpretation_csv():
     """
     以下の形式のcsvを出力
     phrase x
-    (adj, count), (adj, count)...
+    (adj, prob), (adj, prob)...
 
     """
     df = pd.read_csv('intagrated_interpretations_eight.csv')

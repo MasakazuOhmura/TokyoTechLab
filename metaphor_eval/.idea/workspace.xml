@@ -1,73 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="895a059c-2b90-4f60-9d82-be6a3722d92d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../HelloPython/bigram/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HelloPython/bigram/duplicated_template.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HelloPython/bigram/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HelloPython/file_diff/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HelloPython/file_diff/all_template.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HelloPython/file_diff/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HelloPython/file_diff/rename_template.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HelloPython/file_rename/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HelloPython/file_rename/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HelloPython/file_rename/rename_template.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HelloPython/machine_learning/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HelloPython/machine_learning/bmi.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HelloPython/machine_learning/bmi_create.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HelloPython/machine_learning/bmi_softmax.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HelloPython/machine_learning/bmi_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HelloPython/machine_learning/file_util.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HelloPython/machine_learning/hello_tensorflow.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HelloPython/machine_learning/iris_train.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HelloPython/machine_learning/iris_train2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HelloPython/machine_learning/xor_train.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HelloPython/machine_learning/xor_train2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bunruigoihyo/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bunruigoihyo/create_html_crowdsourcing/main_create_html_for_crowdsourcing.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bunruigoihyo/file_utils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bunruigoihyo/input_integrated_files/integrated_PB1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bunruigoihyo/input_integrated_files/integrated_PB2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bunruigoihyo/input_integrated_files/integrated_PB3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bunruigoihyo/input_integrated_files/integrated_PB4.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bunruigoihyo/input_integrated_files/integrated_PB5.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bunruigoihyo/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bunruigoihyo/record.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bunruigoihyo/split_integrated_PB1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bunruigoihyo/split_integrated_PB2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bunruigoihyo/split_integrated_PB3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bunruigoihyo/split_integrated_PB4.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bunruigoihyo/split_integrated_PB5.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bunruigoihyo/実験ノート.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/intagrated_interpretations_eight.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stat.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../naver_scrapy/.idea/dictionaries/masakazu.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../naver_scrapy/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../nlp_class/hw1/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../nlp_class/hw2/train.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../nlp_class/hw2/課題2_問題.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../nlp_lab/bccwj/Janome実験.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../nlp_lab/bccwj/pos_pattern/PB1n_00001.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../nlp_lab/bccwj/pos_pattern/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../nlp_lab/bccwj/pos_pattern/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../nlp_lab/word2vec/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../nlp_lab/wordnet/en/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../nlp_lab/wordnet/en/get_hypernyms.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../nlp_lab/wordnet/file_utils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../nlp_lab/wordnet/ja/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../nlp_lab/wordnet/ja/get_synonym.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../revicejp/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../revicejp/Readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../simple-word2vec/.idea/other.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../simple-word2vec/file_utils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../simple-word2vec/most_similar.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../simple-word2vec/my_word2vec/cbow.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../simple-word2vec/my_word2vec/learning_cbow.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../simple-word2vec/my_word2vec/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../simple-word2vec/simple_vec_calc.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../simple-word2vec/word2vec実験.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="895a059c-2b90-4f60-9d82-be6a3722d92d" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,18 +44,37 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="799992409">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="4" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="185">
-              <caret line="58" column="11" lean-forward="true" selection-start-line="58" selection-start-column="11" selection-end-line="58" selection-end-column="11" />
+            <state relative-caret-position="82">
+              <caret line="43" column="7" lean-forward="true" selection-start-line="43" selection-start-column="7" selection-end-line="43" selection-end-column="7" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
-                <marker date="1542490353274" expanded="true" signature="906:909" ph="..." />
-                <marker date="1542490353274" expanded="true" signature="1638:1640" ph="..." />
+                <marker date="1542491964064" expanded="true" signature="906:909" ph="..." />
+                <marker date="1542491964064" expanded="true" signature="1636:1638" ph="..." />
               </folding>
             </state>
           </provider>
@@ -252,8 +205,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="728" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2536349" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25767368" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -292,12 +246,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="185">
-          <caret line="58" column="11" lean-forward="true" selection-start-line="58" selection-start-column="11" selection-end-line="58" selection-end-column="11" />
+        <state relative-caret-position="82">
+          <caret line="43" column="7" lean-forward="true" selection-start-line="43" selection-start-column="7" selection-end-line="43" selection-end-column="7" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
-            <marker date="1542490353274" expanded="true" signature="906:909" ph="..." />
-            <marker date="1542490353274" expanded="true" signature="1638:1640" ph="..." />
+            <marker date="1542491964064" expanded="true" signature="906:909" ph="..." />
+            <marker date="1542491964064" expanded="true" signature="1636:1638" ph="..." />
           </folding>
         </state>
       </provider>
